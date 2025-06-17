@@ -18,7 +18,7 @@ A beautifully crafted, responsive, and interactive To-Do App built using HTML, C
 🚀 Demo
 
 
-Live App: https://codeitdown-todoapp.netlify.app
+Live App:   https://codeitdown-todoapp.netlify.app
 
 🧑‍💻 Tech Stack
 
@@ -43,12 +43,19 @@ Live App: https://codeitdown-todoapp.netlify.app
 
 
 Contributions are welcome!
+
 Feel free to fork the project and submit a pull request(PR).
+
+If you liked it, don't forget to ⭐ the repo!
 
 📬 Contact
 
 
 Made with ❤️ by Jwel Srivastava | Syntax Surfer 🔥
+
+Web Developer
+
+
 
 
 
