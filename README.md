@@ -1,4 +1,5 @@
-# CodeItDown
+# CodeItDown : To-Do App
+
 A beautifully crafted, responsive, and interactive To-Do App built using HTML, CSS, and JavaScript.  Designed to help you plan your day, set your priorities, and get things done — one task at a time.
 
 ![image](https://github.com/user-attachments/assets/8ff11c2e-bf25-488a-82fa-d77fb1b5a560)
@@ -20,4 +21,9 @@ A beautifully crafted, responsive, and interactive To-Do App built using HTML, C
 - CSS3 – Styling and layout
 - JavaScript (Vanilla) – Interactivity & logic
 
+🚀 Getting Started
+
+1. Clone the repository:
+     run this command on your git bash :
+     git clone https://github.com/JwelSrivastava/codeitdown-todo-app.git
 
