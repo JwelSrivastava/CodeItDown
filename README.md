@@ -16,7 +16,9 @@ A beautifully crafted, responsive, and interactive To-Do App built using HTML, C
 - 📱 Fully responsive across devices
 
 🚀 Demo
-Live App:
+
+
+Live App: 
 
 🧑‍💻 Tech Stack
 
@@ -30,12 +32,26 @@ Live App:
 
      run this command on your git bash :
 
-     git clone https://github.com/JwelSrivastava/codeitdown-todo-app.git
+     git clone https://github.com/JwelSrivastava/CodeItDown.git
+
 
 📸 User Interface
 
 ![image](https://github.com/user-attachments/assets/f9d9ee35-3c00-4cd0-99e2-c907d32bc3fb)
 
+🤝 Contributing
+
+
+Contributions are welcome!
+Feel free to fork the project and submit a pull request(PR).
+
+📬 Contact
+
+
+Made with ❤️ by Jwel Srivastava | Syntax Surfer 🔥
+
+
+copyright@2025
 
 
 
