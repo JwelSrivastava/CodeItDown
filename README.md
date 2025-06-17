@@ -53,7 +53,7 @@ If you liked it, don't forget to ⭐ the repo!
 
 Made with ❤️ by Jwel Srivastava | Syntax Surfer 🔥
 
-Web Developer
+Web-Developer
 
 
 
