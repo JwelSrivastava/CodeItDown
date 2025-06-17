@@ -24,6 +24,8 @@ A beautifully crafted, responsive, and interactive To-Do App built using HTML, C
 🚀 Getting Started
 
 1. Clone the repository:
+
      run this command on your git bash :
+
      git clone https://github.com/JwelSrivastava/codeitdown-todo-app.git
 
