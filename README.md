@@ -2,7 +2,7 @@
 
 A beautifully crafted, responsive, and interactive To-Do App built using HTML, CSS, and JavaScript.  Designed to help you plan your day, set your priorities, and get things done — one task at a time.
 
-![image](https://github.com/user-attachments/assets/8ff11c2e-bf25-488a-82fa-d77fb1b5a560)
+https://i.pinimg.com/736x/c1/8b/9a/c18b9ab65f3abfef2ed359b0e5b64a82.jpg
 
 
 📌 Features
