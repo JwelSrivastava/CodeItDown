@@ -1,6 +1,6 @@
 # CodeItDown : To-Do App
 
-A beautifully crafted, responsive, and interactive To-Do App built using HTML, CSS, and JavaScript.  Designed to help you plan your day, set your priorities, and get things done — one task at a time.
+A beautifully crafted, responsive, and interactive To-Do App built using HTML, CSS, and JavaScript.  Designed to help you plan your day, set your priorities, & get things done — one task at a time.
 
 ![image](https://github.com/user-attachments/assets/ebbd55f6-399c-470e-9436-16ebcc8767ef)
 
